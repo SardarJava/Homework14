@@ -1,8 +1,8 @@
 public class Class {
 
-    String word;
-    int number;
-    int [] array;
+    private String word;
+    private int number;
+    private int [] array;
 
     public String getWord() {
         return word;
